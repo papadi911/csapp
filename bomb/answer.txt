@@ -1,0 +1,25 @@
+//phase_1
+Border relations with Canada have never been better.
+
+//phase_2
+1 2 4 8 16 32
+
+//phase_3
+0 -> 0x402470 -> 0x00400f7c -> 207
+1 -> 0x402478 -> 0x00400fb9 -> 311
+2 -> 0x402480 -> 0x00400f83 -> 707
+3 -> 0x402488 -> 0x00400f8a -> 256
+4 -> 0x402490 -> 0x00400f91 -> 389
+5 -> 0x402498 -> 0x00400f98 -> 206
+6 -> 0x4024a0 -> 0x00400f9f -> 682
+7 -> 0x4024a8 -> 0x00400fa6 -> 327
+
+//phase_4
+0 0
+
+//phase_5
+maduiersnfotvbyl -> flyers
+ionefg
+
+//phase_6
+4 3 2 1 6 5
